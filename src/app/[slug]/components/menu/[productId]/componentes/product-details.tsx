@@ -104,7 +104,7 @@ const ProductDetails = ({ product }: ProductDetailsProps) => {
             <div className="mt-6 space-y-3">
               <div className="5 flex items-center gap-1">
                 <ChefHatIcon size={18} />
-                <h4 className="font-semibold">Ingredientes</h4> 
+                <h4 className="font-semibold">Ingredientes</h4>
               </div>
               <ul className="text-muted-fo list-disc px-5 text-sm text-muted-foreground">
                 {product.ingredients.map((ingredient) => (
