@@ -41,6 +41,6 @@ const ProductHeader = ({ product }: ProductHeaderProps) => {
       </Button>
     </div>
   );
-};
+}; 
 
 export default ProductHeader;
