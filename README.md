@@ -17,7 +17,7 @@
 
 ## 📸 Preview do Projeto
 
-![Preview do Projeto](link_para_imagem)
+![Preview do Projeto](https://github.com/Taisalvess/Mcdonalds-clone-/blob/main/ProjetoMcdonalds.jpg)
 
 ## 📂 Como Executar o Projeto
 
